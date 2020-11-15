@@ -93,6 +93,6 @@ systemctl reboot
 history
 ```
 
-En ouvrant le fichier `/etc/hostapd/hostapd.conf` on tombe sur le flag:
+En ouvrant le fichier `/etc/hostapd/hostapd.conf` on tombe sur le flag `BackpackBackdoorNet`:
 
 ![flag](img/flag.png)
